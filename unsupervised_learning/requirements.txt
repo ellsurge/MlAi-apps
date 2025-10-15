@@ -1,0 +1,5 @@
+streamlit~=1.36.0
+numpy~=1.26.0
+Pillow~=10.4.0
+scikit-learn~=1.5.1
+protobuf==3.20.3
